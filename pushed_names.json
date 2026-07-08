@@ -2087,7 +2087,37 @@
       "pinyin": "xún qióng lì yì",
       "meaning": "巡天穹、砺羽翼，寓意机器人不断进化、飞向更广疆域",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "玄微矩阵",
+      "pinyin": "xuán wēi jǔ zhèn",
+      "meaning": "取自微观玄奥之理，以矩阵算力切入芯片与智能计算",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "琢物精造",
+      "pinyin": "zhuó wù jīng zào",
+      "meaning": "以匠心琢物，聚焦高端硬件精密制造",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "溯弦光年",
+      "pinyin": "sù xián guāng nián",
+      "meaning": "沿物理之弦回溯本源，丈量光年之外的深空探索",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "镜界巡天",
+      "pinyin": "jìng jiè xún tiān",
+      "meaning": "镜观世界、巡防苍穹，喻感知与全域安全监测",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "棱镜织网",
+      "pinyin": "léng jìng zhī wǎng",
+      "meaning": "棱镜分光、织就网络，喻网络架构与安全防御",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:53:10.677003"
+  "last_updated": "2026-07-09T06:57:23.787288"
 }

@@ -1877,7 +1877,43 @@
       "pinyin": "yún xiù líng xiāo",
       "meaning": "云生岫间、势凌霄汉，喻云端技术攀登新高度",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹轨引擎",
+      "pinyin": "qióng guǐ yǐn qíng",
+      "meaning": "苍穹轨道引擎，喻航天动力与探索精神",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "光储潮汐",
+      "pinyin": "guāng chǔ cháo xī",
+      "meaning": "光储与潮汐，喻清洁能源与循环储能",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磁谱天工",
+      "pinyin": "cí pǔ tiān gōng",
+      "meaning": "磁谱与天工，喻硬件精密与能源匠心",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦溯云链",
+      "pinyin": "xián sù yún liàn",
+      "meaning": "网络脉络溯源+云端可信链路，网络安全溯源与无界互联",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺臂穹工",
+      "pinyin": "lì bì qióng gōng",
+      "meaning": "磨砺机械臂、志在广阔天地，机器人精密制造",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "鸿弦无界",
+      "pinyin": "hóng xián wú jiè",
+      "meaning": "宏大网络、打破边界，网络互联通达万物",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:33:49.413749+08:00"
+  "last_updated": "2026-07-09T06:37:38.829322"
 }

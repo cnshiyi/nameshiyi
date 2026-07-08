@@ -1571,7 +1571,49 @@
       "pinyin": "jì qióng mài luò",
       "meaning": "霁穹指澄澈苍穹，脉络喻算力与数据的流动通道，象征稳定通透的云基础设施",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "千机推演",
+      "pinyin": "qiān jī tuī yǎn",
+      "meaning": "汇聚海量算力，驱动算法持续推演与决策",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "极目云图",
+      "pinyin": "jí mù yún tú",
+      "meaning": "以极远视野绘制云端数据图谱，洞察全局",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦理天工",
+      "pinyin": "xián lǐ tiān gōng",
+      "meaning": "以底层规律（弦理）为本，驾驭智能工程",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "灵境算枢",
+      "pinyin": "líng jìng suàn shū",
+      "meaning": "在虚拟智能之境中，构建算法与数据的中枢",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "墨测流形",
+      "pinyin": "mò cè liú xíng",
+      "meaning": "以精密测算驾驭高维数据流形，揭示隐藏结构",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐石安域",
+      "pinyin": "pán shí ān yù",
+      "meaning": "以磐石喻稳固、安域指安全疆界，象征坚不可摧的网络与信息安全防护",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潮涌云枢",
+      "pinyin": "cháo yǒng yún shū",
+      "meaning": "以潮涌喻算力奔流、云枢指云端枢纽，象征弹性澎湃的云计算核心",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T05:50:20+08:00"
+  "last_updated": "2026-07-09T05:58:19.473949"
 }

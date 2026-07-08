@@ -2375,7 +2375,49 @@
       "pinyin": "lán xiù jí kàn",
       "meaning": "云雾山间极目洞察，感知与监控之眼",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "算力蓝图",
+      "pinyin": "suàn lì lán tú",
+      "meaning": "以算力为基石绘制智能未来，聚焦高性能计算与算法基建",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺芯方舟",
+      "pinyin": "lì xīn fāng zhōu",
+      "meaning": "以磨砺之心造芯片内核，如方舟承载硬科技远征",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐石光年",
+      "pinyin": "pán shí guāng nián",
+      "meaning": "如磐石般稳固可靠，跨越光年的时空尺度",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "雾隐磐石",
+      "pinyin": "wù yǐn pán shí",
+      "meaning": "雾计算隐于磐石底座，喻稳健可靠、攻不破的安全云基",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "千机云枢",
+      "pinyin": "qiān jī yún shū",
+      "meaning": "千台机器经云端枢纽联动，喻机器人规模化协同与调度",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "流深织网",
+      "pinyin": "liú shēn zhī wǎng",
+      "meaning": "于流量深处编织防护网，喻深层网络感知与主动安全",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺行穹影",
+      "pinyin": "lì xíng qióng yǐng",
+      "meaning": "磨砺前行、穹顶之影全覆盖，喻机器人广阔的环境感知力",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T23:27:48.799445+00:00"
+  "last_updated": "2026-07-09T07:34:54.560571+08:00"
 }

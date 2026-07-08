@@ -1709,7 +1709,61 @@
       "pinyin": "zhī làng yuán sù",
       "meaning": "编织网络浪潮且保持原生速度，喻指自动化与实时互联",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "溯真探微",
+      "pinyin": "sù zhēn tàn wēi",
+      "meaning": "追溯数据本真、探究细微规律，契合算法与数据挖掘的探索精神",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "玄矩观象",
+      "pinyin": "xuán jǔ guān xiàng",
+      "meaning": "以深邃法则观测万物征象，体现 AI 感知与模式识别的洞察力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "寰轨晶元",
+      "pinyin": "huán guǐ jīng yuán",
+      "meaning": "晶圆芯片如轨道延展，连通寰宇级的算力网络",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "云枢巡界",
+      "pinyin": "yún shū xún jiè",
+      "meaning": "以云端枢纽巡防护航数字疆界，专注云原生安全",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "灵织云脉",
+      "pinyin": "líng zhī yún mài",
+      "meaning": "以智能编织云间脉络，构建互通互联的网络基础设施",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "霁光探远",
+      "pinyin": "jì guāng tàn yuǎn",
+      "meaning": "拨云见光、探向远方，象征前沿探索与未来视野",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "甲云骁驭",
+      "pinyin": "jiǎ yún xiāo yù",
+      "meaning": "以云为甲、骁勇驭控，寓意云端赋能的机器人智能体",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦脉固疆",
+      "pinyin": "xián mài gù jiāng",
+      "meaning": "以紧绷的弦脉筑牢边界，专注网络安全与边界防护",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "岚野拓新",
+      "pinyin": "lán yě tuò xīn",
+      "meaning": "于山岚旷野开拓新境，象征技术创新与破局生长",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:18:17.298221+08:00"
+  "last_updated": "2026-07-09T06:23:14.944748+08:00"
 }

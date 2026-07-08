@@ -581,7 +581,61 @@
       "pinyin": "chè mài yún xíng",
       "meaning": "清澈脉络，云上运行，喻云数据流透明高效",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "棱镜脉络",
+      "pinyin": "léng jìng mài luò",
+      "meaning": "棱镜分光喻解析万物，脉络喻数据流转，体现算法洞察与数据连接",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "流形矩阵",
+      "pinyin": "liú xíng jǔ zhèn",
+      "meaning": "流形与矩阵皆为数学概念，喻高维数据与算法结构的秩序之美",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "声波拓扑",
+      "pinyin": "shēng bō tuò pǔ",
+      "meaning": "声波形喻智能感知，拓扑喻结构关系，体现 AI 感知与算法建模",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "析光象限",
+      "pinyin": "xī guāng xiàng xiàn",
+      "meaning": "析光喻解析信号，象限喻坐标与定位，体现精准分析与智能判别",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹翼天工",
+      "pinyin": "qióng yì tiān gōng",
+      "meaning": "穹为苍穹、翼指飞翼，天工取巧夺天工，呼应航天精密制造与工程之美",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "烯光焓能",
+      "pinyin": "xī guāng hán néng",
+      "meaning": "烯指新材料、光与焓关联光热转换，整体指向清洁新能源与高效储能方向",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺核穹界",
+      "pinyin": "lì hé qióng jiè",
+      "meaning": "砺以打磨硬核，核指算力与芯片内核，穹界指向太空疆域，软硬与航天并举",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐石硅基",
+      "pinyin": "pán shí guī jī",
+      "meaning": "磐石喻可靠根基，硅基直指半导体 substrate，传达硬件扎实、底座稳固的科技定力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹览无垠",
+      "pinyin": "qióng lǎn wú yín",
+      "meaning": "仰望苍穹纵览全局，视野无垠，体现广域网络与全局感知能力",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T03:57:45.251973+08:00"
+  "last_updated": "2026-07-09T04:04:34.036594+08:00"
 }

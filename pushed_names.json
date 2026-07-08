@@ -179,7 +179,79 @@
       "pinyin": "jī xún wú jiāng",
       "meaning": "机器人无界自主巡防，守护广域安全",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "数擎无界",
+      "pinyin": "shù qíng wú jiè",
+      "meaning": "以数据引擎驱动，打破行业边界探索无垠可能",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "矩元演算",
+      "pinyin": "jǔ yuán yǎn suàn",
+      "meaning": "以矩阵与元计算为基，演绎智能算法的本源",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "谱界寻真",
+      "pinyin": "pǔ jiè xún zhēn",
+      "meaning": "为纷繁世界建模谱图，在数据中寻得真实秩序",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "引潮数枢",
+      "pinyin": "yǐn cháo shù shū",
+      "meaning": "引领智能浪潮，做数据流转的核心枢纽",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "毫厘极阵",
+      "pinyin": "háo lí jí zhèn",
+      "meaning": "以毫厘级的极致精度，构筑芯片与硬件的阵列力量",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹引光迹",
+      "pinyin": "qióng yǐn guāng jì",
+      "meaning": "在苍穹之中牵引光的轨迹，喻指航天探索与清洁能源的未来航向",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "硅脉新燃",
+      "pinyin": "guī mài xīn rán",
+      "meaning": "以硅基芯片为脉络、以新能源为燃点，驱动硬科技复兴",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "巡霄核矩",
+      "pinyin": "xún xiāo hé jǔ",
+      "meaning": "巡游九霄、以核心矩阵掌控算力，融合航天与芯片双重基因",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潮擎磁炬",
+      "pinyin": "cháo qíng cí jǔ",
+      "meaning": "借潮汐与磁能擎起光炬，专注下一代能源动力系统",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "晶毫拓穹",
+      "pinyin": "jīng háo tuò qióng",
+      "meaning": "以晶体般的精密毫厘之力，拓展苍穹边界，探索硬科技无人区",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "深穹云枢",
+      "pinyin": "shēn qióng yún shū",
+      "meaning": "深空云端的连接枢纽，象征云计算的无界互联与调度",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "渺空行云",
+      "pinyin": "miǎo kōng xíng yún",
+      "meaning": "于浩瀚空际行云布算，象征云计算的自由流转与算力",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T19:17:25.946818+00:00"
+  "last_updated": "2026-07-08T19:22:43.667346+00:00"
 }

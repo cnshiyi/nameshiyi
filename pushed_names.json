@@ -107,7 +107,79 @@
       "pinyin": "yì cāng háng jì",
       "meaning": "翊助飞升、掠过苍穹，于碧空刻下轨迹，寓意逐梦空天、行稳致远的航天征途。",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "玄览推演",
+      "pinyin": "xuán lǎn tuī yǎn",
+      "meaning": "以深邃之眼观测世界，用算法推演万物规律",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "溯因推理",
+      "pinyin": "sù yīn tuī lǐ",
+      "meaning": "从结果反推因果，是机器最像人的推理能力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "类脑孪生",
+      "pinyin": "lèi nǎo lì shēng",
+      "meaning": "用类脑结构构建现实世界的数字孪生与智能镜像",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "极目穷理",
+      "pinyin": "jí mù qióng lǐ",
+      "meaning": "极目远眺、穷究物理，永不停歇地探索认知边界",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "寒晶纪元",
+      "pinyin": "hán jīng jì yuán",
+      "meaning": "以硅晶与寒武纪意象，喻芯片底层创新开启新纪元",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "极轨光年",
+      "pinyin": "jí guǐ guāng nián",
+      "meaning": "取极地轨道与光年之远，喻航天遥感跨越时空的视野",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦枢深空",
+      "pinyin": "xián shū shēn kōng",
+      "meaning": "以弦理论为枢，指向深空探索与航天引擎之远大",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "量旋子核",
+      "pinyin": "liàng xuán zǐ hé",
+      "meaning": "取量子自旋与原子核，喻量子计算与新型能源的核心",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "燃曜芯能",
+      "pinyin": "rán yào xīn néng",
+      "meaning": "燃动光耀之芯，喻光电芯片与清洁能源的澎湃动力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "灵甲御链",
+      "pinyin": "líng jiǎ yù liàn",
+      "meaning": "以智能之甲守护链路、数据与系统安全",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹织流云",
+      "pinyin": "qióng zhī liú yún",
+      "meaning": "于苍穹之上编织流动不息的云算之网",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "机巡无疆",
+      "pinyin": "jī xún wú jiāng",
+      "meaning": "机器人无界自主巡防，守护广域安全",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T19:12:47.766383+00:00"
+  "last_updated": "2026-07-08T19:17:25.946818+00:00"
 }

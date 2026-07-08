@@ -1361,7 +1361,49 @@
       "pinyin": "xíng hái gōng zào",
       "meaning": "赋予机械以形骸、以匠心智造，指向机器人与具身智能",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎炬光能",
+      "pinyin": "qíng jù guāng néng",
+      "meaning": "擎举光焰驱动能源，喻以光电之力点亮硬件未来",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "瀚芯远征",
+      "pinyin": "hàn xīn yuǎn zhēng",
+      "meaning": "瀚海般的芯片算力，支撑远征星辰，喻硬科技的长程征途",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦轨巡天",
+      "pinyin": "xián guǐ xún tiān",
+      "meaning": "以弦般精密的轨道巡游天宇，喻芯片级控制赋能航天",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "焓潮擎翼",
+      "pinyin": "hán cháo qíng yì",
+      "meaning": "焓显能源之热、潮纳自然之力，擎翼腾飞，喻绿色动力助飞硬件",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "云穹织网",
+      "pinyin": "yún qióng zhī wǎng",
+      "meaning": "云上苍穹，编织万物互联之网",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎械驭云",
+      "pinyin": "qíng xiè yù yún",
+      "meaning": "机械臂擎动，驾驭云端智能算力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "霄维盾络",
+      "pinyin": "xiāo wéi dùn luò",
+      "meaning": "凌霄维度，盾护每一层网络",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T21:35:16.149175+00:00"
+  "last_updated": "2026-07-09T05:38:02+08:00"
 }

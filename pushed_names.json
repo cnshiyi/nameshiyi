@@ -1,1 +1,41 @@
-{"pushed_names":[],"last_updated":""}
+{
+  "pushed_names": [
+    {
+      "name": "焓擎聚变",
+      "pinyin": "hán qíng jù biàn",
+      "meaning": "焓是热力学能量量度，擎为驱动，聚变指核聚变，象征以能量驱动清洁未来",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "钽铠硬核",
+      "pinyin": "tǎn kǎi yìng hé",
+      "meaning": "钽是高端电容关键金属，铠如甲胄护其精密，象征坚若磐石的硬核制造",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺穹探界",
+      "pinyin": "lì qióng tàn jiè",
+      "meaning": "砺为磨砺，穹指天宇，探界即拓展边界，象征不断突破、向未知进发",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "霁穹物联",
+      "pinyin": "jì qióng wù lián",
+      "meaning": "雨霁天穹、开阔通达，物联直指万物互联，意象清朗、连接无界",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦镜安防",
+      "pinyin": "xián jìng ān fáng",
+      "meaning": "弦喻精准绷紧的感知，镜喻明察监控，合为敏锐洞察的安全防线",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澜图数擎",
+      "pinyin": "lán tú shù qíng",
+      "meaning": "澜如图波澜般延展的数据版图，数擎为数据引擎，喻驱动数字世界",
+      "batch_date": "2026-07-09"
+    }
+  ],
+  "last_updated": "2026-07-08T18:52:58.260423+00:00"
+}

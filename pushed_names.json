@@ -1805,7 +1805,79 @@
       "pinyin": "lì xún tiān wǎng",
       "meaning": "如砾坚实、巡天织网，寓意全天候可靠的网络监测与防护",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "衍弦计算",
+      "pinyin": "yǎn xián jì suàn",
+      "meaning": "如弦波延展般连续演进算力，象征算法算力的无限延伸",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐悟数据",
+      "pinyin": "pán wù shù jù",
+      "meaning": "以磐石之稳承载算法体悟，沉淀可信、扎实的智能数据",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "燧石微光",
+      "pinyin": "suì shí wēi guāng",
+      "meaning": "以燧石击火喻芯片点亮算力，微光象征半导体中微小而关键的信号",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦翊天行",
+      "pinyin": "xián yì tiān xíng",
+      "meaning": "弦喻共振与弦理论，翊为振翅，取天行健之意，指向航天探索与稳健前行",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "隼翼寰行",
+      "pinyin": "sǔn yì huán xíng",
+      "meaning": "隼为疾飞猛禽、翼指飞行器、寰喻寰宇，意指航空航天驰骋苍穹",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "铄金砺芯",
+      "pinyin": "shuò jīn lì xīn",
+      "meaning": "铄金为熔炼精金，砺芯喻打磨芯片，直指半导体硬件制造",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "曦拓穹界",
+      "pinyin": "xī tuò qióng jiè",
+      "meaning": "曦为晨光、拓指拓展、穹界即苍穹边界，寓意面向未来开拓新的疆域",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "棱镜析微",
+      "pinyin": "léng jìng xī wēi",
+      "meaning": "棱镜分光解析、析微洞察纤毫，喻安全领域对威胁的精准甄别",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "千帆织网",
+      "pinyin": "qiān fān zhī wǎng",
+      "meaning": "千帆竞发、织就网络，喻万节点互联的云网生态",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "燧石启明",
+      "pinyin": "suì shí qǐ míng",
+      "meaning": "燧石击火、启明破晓，喻以原始创新点亮智能未来",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潮汐穹络",
+      "pinyin": "cháo xī qióng luò",
+      "meaning": "潮汐喻数据奔流、穹络喻广域天网，贴合网络与安全的广覆盖",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "云岫凌霄",
+      "pinyin": "yún xiù líng xiāo",
+      "meaning": "云生岫间、势凌霄汉，喻云端技术攀登新高度",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:28:08.369271+08:00"
+  "last_updated": "2026-07-09T06:33:49.413749+08:00"
 }

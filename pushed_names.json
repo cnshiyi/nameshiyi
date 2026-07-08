@@ -1763,7 +1763,49 @@
       "pinyin": "lán yě tuò xīn",
       "meaning": "于山岚旷野开拓新境，象征技术创新与破局生长",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "矽微纪元",
+      "pinyin": "xī wēi jì yuán",
+      "meaning": "硅基微缩芯片，开启半导体新纪元",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎熵探界",
+      "pinyin": "qíng shāng tàn jiè",
+      "meaning": "以热力学熵变驱动，探索计算与能量边界",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "氘焱新能",
+      "pinyin": "dāo yàn xīn néng",
+      "meaning": "氘核聚变如焰，新一代清洁能源",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砺矽匠造",
+      "pinyin": "lì xī jiàng zào",
+      "meaning": "砥砺硅基，匠心制造半导体硬件",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "鲸云栖算",
+      "pinyin": "jīng yún qī suàn",
+      "meaning": "如鲸入云、栖于算海，寓意云端海量算力与从容运算",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐隅御界",
+      "pinyin": "pán yú yù jiè",
+      "meaning": "磐石守隅、御卫边界，寓意稳固而智能的边缘安全防护",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砾巡天网",
+      "pinyin": "lì xún tiān wǎng",
+      "meaning": "如砾坚实、巡天织网，寓意全天候可靠的网络监测与防护",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:23:14.944748+08:00"
+  "last_updated": "2026-07-09T06:28:08.369271+08:00"
 }

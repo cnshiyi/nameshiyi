@@ -1151,7 +1151,43 @@
       "pinyin": "léng guāng zhī dùn",
       "meaning": "以多面棱光织成无形之盾，喻主动式、全维度的网络威胁防御",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "灵枢探析",
+      "pinyin": "líng shū tàn xī",
+      "meaning": "以灵巧的算法内核探索并解析海量数据背后的规律",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "浮点深析",
+      "pinyin": "fú diǎn shēn xī",
+      "meaning": "取义浮点运算、深入解析，象征底层算力的精准与深度",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "棱镜微光",
+      "pinyin": "léng jìng wēi guāng",
+      "meaning": "以棱镜折射微光之意，喻指洞察芯片微观世界、捕捉前沿光信号",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "拓荒核能",
+      "pinyin": "tuò huāng hé néng",
+      "meaning": "拓荒新能源疆域，深耕核能与前沿清洁能源技术",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潮汐脉络",
+      "pinyin": "cháo xī mài luò",
+      "meaning": "如潮汐般流动、如脉络般互联，寓意构建泛在感知的网络与云基础设施",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "磐石穹枢",
+      "pinyin": "pán shí qióng shū",
+      "meaning": "如磐石般稳固、如穹枢般核心，寓意可信安全与系统中枢",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T21:08:40.750147+00:00"
+  "last_updated": "2026-07-08T21:13:08.357359+00:00"
 }

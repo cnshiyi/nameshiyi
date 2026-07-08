@@ -251,7 +251,43 @@
       "pinyin": "miǎo kōng xíng yún",
       "meaning": "于浩瀚空际行云布算，象征云计算的自由流转与算力",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "墨熵知微",
+      "pinyin": "mò shāng zhī wēi",
+      "meaning": "墨模熵理、由微知著，寓意用模型与信息熵解析事物最细微的规律",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "溯因象限",
+      "pinyin": "sù yīn xiàng xiàn",
+      "meaning": "溯本求因、象限建模，寓意如推理引擎般从现象反向追索因果",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "朔穹拓界",
+      "pinyin": "shuò qióng tuò jiè",
+      "meaning": "北望苍穹、拓展边界，寓意航天探索与远方征途",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "弦枢光算",
+      "pinyin": "xián shū guāng suàn",
+      "meaning": "弦动中枢、以光启算，寓意芯片算力与光电计算",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澜枢拓能",
+      "pinyin": "lán shū tuò néng",
+      "meaning": "波澜中枢、开拓能源，指向能源系统与未来电网",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "驭机仿生",
+      "pinyin": "yù jī fǎng shēng",
+      "meaning": "驾驭机器、仿生智能，指向机器人对生命机理的智能模拟与创新",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-08T19:22:43.667346+00:00"
+  "last_updated": "2026-07-08T19:28:14.476045Z"
 }

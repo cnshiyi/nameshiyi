@@ -1991,7 +1991,103 @@
       "pinyin": "qióng liàn mài luò",
       "meaning": "穹为苍穹云端，链为链路，脉络喻指遍布的连接与数据传输，体现云网基础设施的广覆盖",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "析界观象",
+      "pinyin": "xī jiè guān xiàng",
+      "meaning": "解析边界、观测万象，体现算法对世界与信息的拆解与认知能力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "穹眸视界",
+      "pinyin": "qióng móu shì jiè",
+      "meaning": "以苍穹之眼俯瞰万物，象征视觉感知与全局视野的AI技术",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "纬理千机",
+      "pinyin": "wěi lǐ qiān jī",
+      "meaning": "多维机理、千机并算，体现对复杂系统的建模与并行智能",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "启痕脉络",
+      "pinyin": "qǐ hén mài luò",
+      "meaning": "循迹开路、理清算脉，象征从数据脉络中发掘关联与规律",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "矽轨航天",
+      "pinyin": "xī guǐ háng tiān",
+      "meaning": "矽指硅芯片，轨为轨道，寓意以半导体技术驱动航天探索，软硬一体飞向天空",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "晶穹动力",
+      "pinyin": "jīng qióng dòng lì",
+      "meaning": "晶喻芯片与光学，穹为苍穹，整体指向为航天与未来提供核心能源动力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "寒焰聚变",
+      "pinyin": "hán yàn jù biàn",
+      "meaning": "寒与焰冷热对撞出科技意象，聚变直指可控核聚变，专注下一代清洁能源",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "微蚀光子",
+      "pinyin": "wēi shí guāng zǐ",
+      "meaning": "微蚀源自芯片微纳蚀刻工艺，光子指光子计算，聚焦硬件底层与光电子",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "寰翼升穹",
+      "pinyin": "huán yì shēng qióng",
+      "meaning": "寰为寰宇，翼喻飞行器，寓意携翼升入苍穹，深耕航空航天装备",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "纳流方舟",
+      "pinyin": "nà liú fāng zhōu",
+      "meaning": "纳指纳米，流为电流与流体，方舟承载探索，寓意纳米科技与新能源载具",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "拓境驰维",
+      "pinyin": "tuò jìng chí wéi",
+      "meaning": "拓展边界、驰骋于多维空间，寓意云计算与网络的无限覆盖与自由连接",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "御澜溯微",
+      "pinyin": "yù lán sù wēi",
+      "meaning": "御止惊澜、溯见微芒，寓意安全防护与对威胁的深层洞察",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "瞰穹弋行",
+      "pinyin": "kàn qióng yì xíng",
+      "meaning": "俯瞰苍穹、巡弋而行，寓意机器人自主巡检与全域感知",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎弦经纬",
+      "pinyin": "qíng xián jīng wěi",
+      "meaning": "擎起数据之弦、纵横经纬，寓意网络的智能编排与调度",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "溯元砺新",
+      "pinyin": "sù yuán lì xīn",
+      "meaning": "追溯本元、磨砺出新，寓意持续探索与技术创新",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "巡穹砺翼",
+      "pinyin": "xún qióng lì yì",
+      "meaning": "巡天穹、砺羽翼，寓意机器人不断进化、飞向更广疆域",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T06:48:32.132027"
+  "last_updated": "2026-07-09T06:53:10.677003"
 }

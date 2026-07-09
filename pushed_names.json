@@ -2959,53 +2959,47 @@
       "batch_date": "2026-07-09"
     },
     {
-      "name": "千机经纬",
-      "pinyin": "qiān jī jīng wěi",
-      "meaning": "以千般算法机理，编织数据的经纬秩序，喻指用智能结构化解复杂世界",
+      "name": "灵渊析算",
+      "pinyin": "líng yuān xī suàn",
+      "meaning": "灵渊喻深邃智能，析算指解析与计算，体现算法算力与深层认知。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "时序流明",
-      "pinyin": "shí xù liú míng",
-      "meaning": "时序喻数据流与时间序列，流明喻洞察之光，意为让数据流动清晰可见",
+      "name": "朔悟矩阵",
+      "pinyin": "shuò wù jǔ zhèn",
+      "meaning": "朔为初始探索，悟指洞察，矩阵象征数据与算法结构，寓意从零洞察万物规律。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "玄览无界",
-      "pinyin": "xuán lǎn wú jiè",
-      "meaning": "玄览指深透的观照，无界指无边界的探索，寓意 AI 跨越认知疆域的全局洞察",
+      "name": "邃机循理",
+      "pinyin": "suì jī xún lǐ",
+      "meaning": "邃深之机，循理指遵循规律自主学习，寓意探幽入微、依理而行。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "洞冥见微",
-      "pinyin": "dòng míng jiàn wēi",
-      "meaning": "洞冥见微，于幽微处洞察规律，喻算法从海量噪声中识别关键信号",
+      "name": "磐芯算力",
+      "pinyin": "pán xīn suàn lì",
+      "meaning": "如磐石般稳健可靠的芯片算力，喻指底层硬科技基石。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "霁川微电",
-      "pinyin": "jì chuān wēi diàn",
-      "meaning": "雨霁川明，以微电子之光点亮硬件未来",
+      "name": "曦能驱动",
+      "pinyin": "xī néng qū dòng",
+      "meaning": "以晨曦般的新能源为驱动，寓意清洁动力点亮未来。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "砺甲天工",
-      "pinyin": "lì jiǎ tiān gōng",
-      "meaning": "磨砺甲胄般坚实的硬核制造，尽显天工造物",
+      "name": "链翼通联",
+      "pinyin": "liàn yì tōng lián",
+      "meaning": "如链展翼、畅通联结，寓意高效可靠的网络连接与通信。",
       "batch_date": "2026-07-09"
     },
     {
-      "name": "墨极光年",
-      "pinyin": "mò jí guāng nián",
-      "meaning": "墨色极光跨越光年，承载算力的极致想象",
-      "batch_date": "2026-07-09"
-    },
-    {
-      "name": "苍穹算力",
-      "pinyin": "cāng qióng suàn lì",
-      "meaning": "以苍穹喻云端，算力如天幕覆盖，聚焦云基础设施",
+      "name": "擎械自驭",
+      "pinyin": "qíng xiè zì yù",
+      "meaning": "擎举机械、自主驭控，寓意机器人自动化与智能操控。",
       "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T09:08:49.488896+08:00"
+  "last_updated": "2026-07-09T09:09:18+08:00"
 }

@@ -2627,7 +2627,31 @@
       "pinyin": "qióng chuān sù wàng",
       "meaning": "仰望苍穹、溯流而望，喻面向未来的持续探索与远见",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "硅微启明",
+      "pinyin": "guī wēi qǐ míng",
+      "meaning": "以微小硅基开启科技黎明，寓意芯片级创新照亮未来",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "焰芒新能",
+      "pinyin": "yàn máng xīn néng",
+      "meaning": "如火焰光芒般的新一代能源，寓意清洁高效、势不可挡",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潮汐算力",
+      "pinyin": "cháo xī suàn lì",
+      "meaning": "如潮汐般弹性伸缩的算力，寓意云计算按需调度、生生不息",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "织云方舟",
+      "pinyin": "zhī yún fāng zhōu",
+      "meaning": "编织云端网络方舟，象征以网络联接承载数字世界的安全远航",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T08:06:07.033898"
+  "last_updated": "2026-07-09T08:09:29.659070+08:00"
 }

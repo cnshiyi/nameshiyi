@@ -3119,7 +3119,103 @@
       "pinyin": "xiāo hàn tiān zhōu",
       "meaning": "翱翔霄汉的航天飞船，寓意探索太空、驶向未来",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "灵枢算矩",
+      "pinyin": "líng shū suàn jǔ",
+      "meaning": "灵巧核心+算法与规则，以灵活精妙的计算内核驾驭数据与算法",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "析微知本",
+      "pinyin": "xī wēi zhī běn",
+      "meaning": "剖析细微、洞察本质，呼应AI从海量数据中抽取规律",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "元脉织数",
+      "pinyin": "yuán mài zhī shù",
+      "meaning": "数据的原始脉络，将离散信息编织成网，体现数据治理与图谱",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澄观溯流",
+      "pinyin": "chéng guān sù liú",
+      "meaning": "清晰洞察、追溯数据来龙去脉，强调可解释AI与数据血缘",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "矩光引象",
+      "pinyin": "jǔ guāng yǐn xiàng",
+      "meaning": "以规则之光引导模型表征，算法如光照亮并牵引智能形态",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "潜澜析境",
+      "pinyin": "qián lán xī jìng",
+      "meaning": "解析潜藏的数据洪流、构建智能之境，暗合深度学习之意",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "丹霄引翼",
+      "pinyin": "dān xiāo yǐn yì",
+      "meaning": "航天逐梦苍穹、引领空天前沿，居高声远、御风而行",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "苍璧涵晶",
+      "pinyin": "cāng bì hán jīng",
+      "meaning": "硬件工艺如璧无瑕、芯晶纯粹，以极致工艺承载可靠算力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澜图列阵",
+      "pinyin": "lán tú liè zhèn",
+      "meaning": "以宏观视野构筑微观算力阵列，把纷繁信号织成有序之力",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎曜焕能",
+      "pinyin": "qíng yào huàn néng",
+      "meaning": "清洁能源与光储，托举光耀、让能量焕新流转",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "砚云枢机",
+      "pinyin": "yàn yún shū jī",
+      "meaning": "云端构建核心引擎，专注云计算与底层架构",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澜骁网络",
+      "pinyin": "lán xiāo wǎng luò",
+      "meaning": "网络如波澜壮阔又迅猛可靠，侧重高速网络与通信",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "澈垣安全",
+      "pinyin": "chè yuán ān quán",
+      "meaning": "以清澈壁垒守护数据与边界，侧重网络安全与防护",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "岚翼机擎",
+      "pinyin": "lán yì jī qíng",
+      "meaning": "机器如岚生双翼、强劲驱动，侧重机器人本体与运动控制",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "泓枢数链",
+      "pinyin": "hóng shū shù liàn",
+      "meaning": "深汇数据、枢接成链，侧重云网协同与数据流通",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "骁岚云阵",
+      "pinyin": "xiāo lán yún zhèn",
+      "meaning": "算力如云阵铺展、灵动而强，侧重分布式云与弹性调度",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T09:18:36.591228+08:00"
+  "last_updated": "2026-07-09T09:24:53.629068+08:00"
 }

@@ -2813,7 +2813,67 @@
       "pinyin": "mò jiǎ jī xīn",
       "meaning": "墨含东方质感，甲为机甲外壳，机芯直指机器人核心与芯片大脑",
       "batch_date": "2026-07-09"
+    },
+    {
+      "name": "析矩寻真",
+      "pinyin": "xī jǔ xún zhēn",
+      "meaning": "拆解数据规律，探寻真实本质",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "璇枢数境",
+      "pinyin": "xuán shū shù jìng",
+      "meaning": "以数据之枢构建智能之境",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "觅理引擎",
+      "pinyin": "mì lǐ yǐn qíng",
+      "meaning": "探寻万物之理，驱动智能引擎",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "焱核动力",
+      "pinyin": "yàn hé dòng lì",
+      "meaning": "火焰般澎湃核心动力，喻指高效可靠能源系统",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "苍崖微构",
+      "pinyin": "cāng yá wéi gòu",
+      "meaning": "苍崖之坚喻指微观精密结构打造的可靠硬件基石",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "云枢衍络",
+      "pinyin": "yún shū yǎn luò",
+      "meaning": "云端枢纽，让数据衍生交织成智能网络",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "安垣犀瞰",
+      "pinyin": "ān yuán xī kàn",
+      "meaning": "坚固城垣与犀利之眼守护网络边界安全",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "鸣机织野",
+      "pinyin": "míng jī zhī yě",
+      "meaning": "机器人鸣响于旷野，自主编织智能协作网络",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "擎弦纬络",
+      "pinyin": "qíng xián wěi luò",
+      "meaning": "引擎驱动弦索，织就万物互联的经纬脉络",
+      "batch_date": "2026-07-09"
+    },
+    {
+      "name": "骥翼云行",
+      "pinyin": "jì yì yún xíng",
+      "meaning": "良骥展翼乘云而行，喻高效敏捷机器人系统",
+      "batch_date": "2026-07-09"
     }
   ],
-  "last_updated": "2026-07-09T08:43:05.712967+08:00"
+  "last_updated": "2026-07-09T08:47:57.405175+08:00"
 }

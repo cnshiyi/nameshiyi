@@ -2329,3 +2329,9 @@
 木桥系统 | 未注册 | 未注册 | .com:可注册 | .cn:可注册 | 综合:可用
 小石世界 | 未注册 | 未注册 | .com:可注册 | .cn:可注册 | 综合:可用
 === 结束 ===
+
+=== 批次 2026-07-22 17:32 ===
+云海探索 | 仅电商个体小微(非科技类) | 无冲突 | .com:可注册(yunhaitansuo.com) | .cn:可注册(yunhaitansuo.cn) | 综合:可用
+行者无界 | 未注册 | 无冲突 | .com:可注册(xingzhewuji.com) | .cn:可注册(xingzhewuji.cn) | 综合:可用
+山海远见 | 仅商贸个体户(非科技类) | 无冲突 | .com:可注册(shanhaiyuanjian.com) | .cn:可注册(shanhaiyuanjian.cn) | 综合:可用
+=== 结束 ===

@@ -4706,3 +4706,12 @@
 云上连线 - yún shàng lián xiàn - 在云端连接人与设备，构建万物互联的网络
 明亮眼睛 - míng liàng yǎn jing - 用感知与成像技术，做帮人看清世界的眼睛
 读懂地球 - dú dǒng dì qiú - 用数据理解地球与城市，服务智慧生活
+奔流时空 - benliushikong - 技术如江河奔涌、穿越时空，适合算力/云/量子类公司
+开物探索 - kaiwutansuo - 打开万物、创造新物，呼应深度求索式探索精神
+闪现光能 - shanxianguangneng - 瞬间出现，光计算/光伏/显示等前沿方向
+深行见远 - shenxingjianyuan - 走得深才看得远，深耕技术洞察长远
+问天望海 - wentianwanghai - 上问苍天下望沧海，对未知的探索与感知
+广思新见 - guangsixinjian - 广博思考常有新见，突出创新与思维
+观物知微 - guanwuzhiwei - 观察万物洞悉精微，贴合传感/检测/智能感知
+谷雨微光 - guyuwuguang - 自然孕育+微小坚定的科技之光
+溪水探路 - xishuitanlu - 溪水探路，技术探索中不断试错寻找最优路径
